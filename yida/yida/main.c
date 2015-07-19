@@ -10,5 +10,6 @@
 
 int main(int argc, const char * argv[]) {
     printf("玉玉该吃药了!\n");
+	printf("吃了没有~\n");
     return 0;
 }
